@@ -9,6 +9,7 @@ import { FiDownload } from "react-icons/fi";
 import { FaPlay } from "react-icons/fa";
 import { TypeAnimation } from "react-type-animation";
 import resumePDF from "../../assets/Rahul.pdf";
+import profile from "../../assets/profile-pic_Rahul.png"
 
 const Hero = () => {
   return (
@@ -100,9 +101,9 @@ const Hero = () => {
             <img
               data-aos="fade-up"
               className=" h-[90%]  w-full object-cover md:h-[95%] md:m-auto sm:m-0"
-              src="https://lh3.googleusercontent.com/pw/ADCreHdrmYpX2nHJRIbFkegx4WcV5QOmNxV8aYMG-ge71Ew6l--zxOyO4fMlUCExs7Rf6k6Q-soezgj550z0u47MEhPVjDMX8R9wMu8ccn8VFaXF8VIIx2U3zMqNd-spyuZyIxQIYa8I-IJSpbSm_zZjSsbaV-aG7uDGPPSts8RnAIGzDaOk2_K2vAyDZyZZ-S_x7Dz9c8LyiOqAZZ5iDpEcyjqR0y4pBsp7_8f61v0gvUvNLy-5VbC80KIzsQKKNKqFN-HcQdBxXkKv788ZXW1eFqeO936-HfVsCvDd_wfEUFMfPNXBqAAzL4YNANHXMPpow23NCM0R7LaeCN2LPYPWrkkm9e22VQJtbpg-DOmiI6zdCEw0lo0M3nh6_2JOoGrNy2PQw6bthUEa4TymzC62YTkwwWUZPv1SzOvkubq_wnDsLe-93-HceO6__QZJjDCag8Sl_3uIOrAFRLlIw3sjt_5_HmC76-HvRfu6buquthnL9HXkeLJr6zoSvijxNfE9nOC0Aw1XXTHGWm_lQwNSAGFi8zal7JLUAoYA2mSU_o9RaPrwGq8tIJ2JpQqVpyMaiSIW1Rx635qY7yxHzZoosr8pcJ88sM04NFvLC9cUdgwX17mlSdS2Kf7_E3mWkLgkJFH5rpIswLuZDccMTV537QyNeO2ly_s9-8yPyHi6VMrdIdaemBqTCSnMoGW20VeVYidDMFWqkpDUz7e41nh1RaCrV16DNsLoIITHLER47UW_v2kMcV4ey88Sp4s9CV2cgVBEQuefKqrsFzQvaDrr0jLLPcdZEttOhX0jwLklodXZqpbjwdgGc6Xz0_nizrKCNzgAzyXK-0qaH9zLPuZTPV9oTQfpFD-MWxQcP5GsEgaOHJiDxbo11AGWLrBTNZl-75SI1MkT6EZ6bghStCgRllUIZQ=w600-h600-s-no-gm?authuser=0"
-              // src={mine}
-              alt="mine"
+              src="https://lh3.googleusercontent.com/pw/ADCreHdvYjHegC2uwZIly4m4ktRyy8OwyP7wkyH_Bw4sl1nZc2CFWfrE5c180itX6gmF8OxS4KqzAFew7SUuULDU13tTl4Dtyr8ZMOVC2enMS0vFFYE0wqeaR-QMNajbqeAUsPyutJXtgylDyU9APGsOWW3y1Ms62O8UJVe6fbM4p2lr-8QxswvQIcarstNE-9oziwKlidK_ld6Zj0MroruU3HsfHqN_aGOdtN_EG_vfXx7zn-y_Za5B2cMrJrFeWgkvOigZxLDKlPgwwSuaGBiHec2SIfgRBcFoPhg-Q-W-enTmvOoUDTsvaWRSnbl4yt_LkdI4ifCG6DGHS6EP0QrRzEI9I2ltHfc0NvTkkTIULFNN04yufYFumMzj5SJnB1UxoAXXXypy261VNi0syUk7dGLYSVtZUj7kdxQoYEfiIFBglDQct0oHBnFqnCIZ_f2WHaP6xNrSuhnuhNnlBcKP_O-4-XKa571ItYgWWTHzYOd3_XXGD5elGhLr2l1Vn_09XeAOC9KfQP_Fj9e0SmYYDaq42OX1k7oyzikE9IgGK9gifbJ6kE9KATjEqpptTbPVV0ZkaZ0aWLKTfu0pSuLsJw_ychBYQjo_mYrkbOcsVq6QYbGrysf6lexqx1pD9iIIsln-Kbl6QZth2Wtlv3tWFYZU0GDcN4JZd6Cssv_qP3MJdJ_IQmEztioXhXQ6r9QEyp1kDYQvU8F8GV5EARDrvt8igMOJ0SYz3XxwwM8scp2fogtxax6msk2cqL5tR3KU-6k43xH71GtEaIUM9oO-zbSD7epAxMtgQifVv9i6mOfRCM0Joz5SZH__GAyDSG7tEavx3MGq1GbfQodWdDmmYJufcMUJ_irRuvfTOrryV2vj_lOOWZJzZcWtCPnXIiooAcrHjQ=w600-h600-s-no-gm?authuser=0"
+              href = {profile}
+              alt=""
             />
             <div className=" absolute bottom-10 md:bottom-3 right-8 md:right-2">
               <div
