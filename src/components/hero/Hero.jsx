@@ -101,7 +101,7 @@ const Hero = () => {
             <img
               data-aos="fade-up"
               className=" h-[90%]  w-full object-cover md:h-[95%] md:m-auto sm:m-0"
-              src="https://lh3.googleusercontent.com/pw/ADCreHdvYjHegC2uwZIly4m4ktRyy8OwyP7wkyH_Bw4sl1nZc2CFWfrE5c180itX6gmF8OxS4KqzAFew7SUuULDU13tTl4Dtyr8ZMOVC2enMS0vFFYE0wqeaR-QMNajbqeAUsPyutJXtgylDyU9APGsOWW3y1Ms62O8UJVe6fbM4p2lr-8QxswvQIcarstNE-9oziwKlidK_ld6Zj0MroruU3HsfHqN_aGOdtN_EG_vfXx7zn-y_Za5B2cMrJrFeWgkvOigZxLDKlPgwwSuaGBiHec2SIfgRBcFoPhg-Q-W-enTmvOoUDTsvaWRSnbl4yt_LkdI4ifCG6DGHS6EP0QrRzEI9I2ltHfc0NvTkkTIULFNN04yufYFumMzj5SJnB1UxoAXXXypy261VNi0syUk7dGLYSVtZUj7kdxQoYEfiIFBglDQct0oHBnFqnCIZ_f2WHaP6xNrSuhnuhNnlBcKP_O-4-XKa571ItYgWWTHzYOd3_XXGD5elGhLr2l1Vn_09XeAOC9KfQP_Fj9e0SmYYDaq42OX1k7oyzikE9IgGK9gifbJ6kE9KATjEqpptTbPVV0ZkaZ0aWLKTfu0pSuLsJw_ychBYQjo_mYrkbOcsVq6QYbGrysf6lexqx1pD9iIIsln-Kbl6QZth2Wtlv3tWFYZU0GDcN4JZd6Cssv_qP3MJdJ_IQmEztioXhXQ6r9QEyp1kDYQvU8F8GV5EARDrvt8igMOJ0SYz3XxwwM8scp2fogtxax6msk2cqL5tR3KU-6k43xH71GtEaIUM9oO-zbSD7epAxMtgQifVv9i6mOfRCM0Joz5SZH__GAyDSG7tEavx3MGq1GbfQodWdDmmYJufcMUJ_irRuvfTOrryV2vj_lOOWZJzZcWtCPnXIiooAcrHjQ=w600-h600-s-no-gm?authuser=0"
+              src="https://github.com/RandomFirstOrg/Photos/blob/main/profile-pic_Rahul.png?raw=true"
               href = {profile}
               alt=""
             />
