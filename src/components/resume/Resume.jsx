@@ -44,7 +44,7 @@ const Resume = () => {
                   June 2023 - Present
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
-                  With a strong grasp of HTML, CSS, JS, and PHP, I've honed my
+                  With a strong grasp of HTML, CSS, JS, I've honed my
                   skills through practical projects. I'm currently immersed in
                   an internship at Byte Billion Institute, amplifying my
                   insights into real-world development. Simultaneously, I'm

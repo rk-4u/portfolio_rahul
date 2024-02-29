@@ -88,7 +88,7 @@ const Skills = ({ darkMode }) => {
                 }
                 black={"black"}
                 white={"white"}
-                skill={"C++"}
+                skill={"React Js"}
               />
               {/* <SkillBox
                 className=""
