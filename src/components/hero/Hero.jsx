@@ -101,7 +101,7 @@ const Hero = () => {
             <img
               data-aos="fade-up"
               className=" h-[90%]  w-full object-cover md:h-[95%] md:m-auto sm:m-0"
-              src="https://github.com/RandomFirstOrg/Photos/blob/main/RKavataar.png?raw=true"
+              src="https://github.com/RandomFirstOrg/Photos/blob/main/Kapil.png?raw=true"
               href = {profile}
               alt=""
             />
