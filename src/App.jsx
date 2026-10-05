@@ -1,6 +1,7 @@
 import React from "react";
 import { useEffect, useState, lazy, Suspense } from 'react';
 import { profile, nav, skills, projects, jobs, schools, socials } from './data/data';
+import { Analytics } from '@vercel/analytics/react';
 
 const Wave = lazy(() => import('./components/background/WaveBackground'));
 const Ext = ({ href, children }) => <a href={href} target="_blank" rel="noopener noreferrer" className="link">{children}</a>;
@@ -122,6 +123,7 @@ export default function App() {
         </section>
       </main>
       <footer className="ftr"><span>© {new Date().getFullYear()} Rahul Choudhary</span><a href="#top" className="link">Back to top</a></footer>
+      <Analytics />
     </>
   );
 }
